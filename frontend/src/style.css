@@ -12,4 +12,5 @@ body {
   margin: 0%;
   background-color: black;
   color: white;
+  background: linear-gradient(180deg, #102347 0%, #181818 70%);
 }

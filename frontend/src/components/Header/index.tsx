@@ -9,7 +9,10 @@ export function Header() {
         <h1>DSMeta</h1>
         <p>
           Desenvolvido por
-          <a href="https://github.com/ayanokoujifl" target='_blank'>  @luis_gustavo_fl </a>
+          <a href="https://github.com/ayanokoujifl" target="_blank">
+            {' '}
+            @ayanokoujifl
+          </a>
         </p>
       </div>
     </header>
